@@ -30,3 +30,4 @@ jobs:
         with:
           name: test.exe
           path: ./artifacts/test.exe
+
